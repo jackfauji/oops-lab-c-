@@ -1,3 +1,12 @@
+
+//que,consider a text  file conatining some dogits ands some string in following order
+//digits--  100 50 1000 1 10 5 20 11
+and string "graphic era university
+department of computer science
+object oriented programming"
+//implement uisng file handlng a cpp program to write the following text in a file source.txt that i s presemt at some directory .read he contents of thus file and display it in the console that is ram
+//.again write the contenets of this file that is source.txt to another file in dest.txt provided des.txt must contain some predefined text .
+
 #include<fstream>
 #include<iostream>
 using namespace std;
